@@ -11,6 +11,6 @@ This I like:
 - Football (or soccer if you are from the US).
 
 How to reach me:
-- Email: erwin.mintiens@gmail.com
+- Email: erwin.mintiens@protonmail.com
 - LinkedIn: https://www.linkedin.com/in/erwinmintiens/
 
