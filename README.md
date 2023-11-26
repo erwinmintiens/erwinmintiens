@@ -1,7 +1,7 @@
 
-### Erwin Mintiens
+## Erwin Mintiens
 
-### About Me:
+### About Me
 
 - I’m working as a backend Software Engineer.
 - Further exploring Python and Rust.
@@ -9,7 +9,7 @@
 
 ---
 
-### Languages and Tools:
+### Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
