@@ -1,12 +1,6 @@
 
 ## Erwin Mintiens
 
-### About Me
-
-- I’m working as a backend Software Engineer.
-- Further exploring Python and Rust.
-- In my free time, I solve problems on leetcode and build API integrations for different platforms.
-
 ---
 
 ### Languages and Tools
