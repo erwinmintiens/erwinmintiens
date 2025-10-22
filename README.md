@@ -23,6 +23,10 @@
 </div>
 
 ---
+
+[![An image of @moinsdix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moinsdix)](https://holopin.io/@moinsdix)
+
+---
  
 <div id="header" align="center">
   <div id="badges">
